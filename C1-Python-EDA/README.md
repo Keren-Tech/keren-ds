@@ -1,4 +1,4 @@
-# C1 — Python + EDA
+# C1-Python-EDA
 
 GL PGP Weeks 1–5
 
