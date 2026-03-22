@@ -1,0 +1,21 @@
+# C5 — Classification Techniques
+
+GL PGP Weeks 16–18
+
+## What this folder covers
+- Logistic regression
+- Decision trees
+- Random forest
+- Model evaluation — precision, recall, F1, ROC-AUC
+- Handling class imbalance
+- C5 Major Project — Customer Churn
+
+## Notebooks in order
+- 01_logistic_regression.ipynb
+- 02_decision_trees.ipynb
+- 03_random_forest.ipynb
+- 04_model_evaluation.ipynb
+- 05_c5_major_project_churn.ipynb
+
+## Key finding
+[Add after completing the project]
