@@ -1,0 +1,22 @@
+# C2 — Generative AI for Text Analysis
+
+GL PGP Weeks 6–8
+
+## What this folder covers
+- Large Language Models (LLMs) — what they are and how they work
+- Prompt engineering and context engineering
+- RAG (Retrieval Augmented Generation) pipelines
+- Text analysis with GenAI
+- C2 Major Project — Customer Intelligence System
+
+## Notebooks in order
+- 01_llm_prompting.ipynb
+- 02_text_analysis.ipynb
+- 03_rag_pipeline.ipynb
+- 04_c2_major_project.ipynb
+
+## Tools used
+Python · OpenAI API · LangChain · Pydantic
+
+## Key finding
+[Write one sentence about your project output — add after completing]
