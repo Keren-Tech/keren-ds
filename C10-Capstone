@@ -1,0 +1,28 @@
+# C10 — Capstone Project
+
+GL PGP Weeks 35–38
+
+## Business Question
+[Write your chosen project question here — e.g. "Which telecom customers will churn in the next 30 days?"]
+
+## Project Option chosen
+Option A — Customer Churn Prediction
+(or whichever option you chose)
+
+## Full Pipeline
+- M1: Business framing + EDA — 01_eda.ipynb
+- M2: Feature engineering + modelling — 02_modelling.ipynb
+- M3: Evaluation + SQL + Tableau — 03_evaluation.ipynb
+- M4: Final presentation — capstone_slides.pdf
+
+## Results
+[Write your final model AUC score and key business finding — add after completing]
+
+## Tools used
+Python · pandas · XGBoost · SHAP · SQLite · Tableau Public
+
+## Live Dashboard
+[Tableau Public link — add after publishing]
+
+## Presentation
+[Link to PDF slides — add after completing]
