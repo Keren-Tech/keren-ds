@@ -1,0 +1,21 @@
+# C6 — Robust Data Modeling with Ensembling & Tuning
+
+GL PGP Weeks 19–22
+
+## What this folder covers
+- Bagging, boosting, and stacking
+- XGBoost, LightGBM, CatBoost
+- Hyperparameter tuning with Optuna
+- SHAP values — model explainability
+- sklearn Pipelines
+- C6 Major Project
+
+## Notebooks in order
+- 01_bagging_boosting.ipynb
+- 02_xgboost.ipynb
+- 03_optuna_tuning.ipynb
+- 04_shap_explainability.ipynb
+- 05_c6_major_project.ipynb
+
+## Key finding
+[Add after completing the project]
